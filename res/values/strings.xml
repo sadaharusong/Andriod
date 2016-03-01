@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Andriod</string>
+    <string name="hello_world">我是一个即可爱，又萌萌哒的APP，但是字符太长了怎么办，使用跑马灯效果多好啊~</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
